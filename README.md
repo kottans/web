@@ -1,6 +1,6 @@
 #Web development course.
 
-Course will contain basic web knowleges, git/github, HTML, CSS, ... and students will decide what else.(potentially Ruby, Python, JS)
+Course will contain basic web knowleges, git/github, HTML, CSS, ... and students will decide what else(potentially Ruby, Python, JS)
 
 The plan is to decreese the amount of lections in favor of collective discussion, team projects & work.
 And give all power & responsibility to students.
