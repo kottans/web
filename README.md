@@ -8,7 +8,7 @@ We plan to decrease the amount of the lecture in favor of collective discussion,
 And give all power & responsibility to students.
 All the materials will be in English.
 
-During the test tasks kottans will learn:
+####During the test tasks kottans will learn:
 
 1. Git, github basics, writing good commit messages
 2. Command line basics
@@ -21,6 +21,26 @@ During the test tasks kottans will learn:
 9. Web basics (HTTP/protocols, ssh, dns, etc)
 10. ...
 
+####Programm for the course:
+
+1. Back-end language Ruyb/Python + framework Python/Rails
+2. JS
+3. HTML, CSS
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+
+# Task 0:
+Create your github account, fill it in.
+Create repository named "kottans_web_test" in that repository create folder "task_0".
+Create README.md for the repository.
+
+Watch [try.github.io](https://try.github.io/levels/1/challenges/1)
+Finish [learngitbranching](http://learngitbranching.js.org/0 and put the screenshots of the finished task list in the task_0 folder and the link in the README file.
+Read [sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
 
 When you finish this task you can start the next one:
 [Test 1](https://github.com/Kottans/web/blob/master/README01.md)
