@@ -23,15 +23,14 @@ All the materials will be in English.
 
 ####Programm for the course:
 
-1. Back-end language Ruyb/Python + framework Python/Rails
-2. JS
-3. HTML, CSS
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
+1. Web development basics
+2. HTML, CSS
+3. Back-end language Ruyb/Python + framework Django/Rails
+4. JavaScript
+5. CI/CD
+6. ...
+7. Considering the course will be driven by students - you'll be able to deside here.
+
 
 # Task 0(get familiar with Git and Github):
 
