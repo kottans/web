@@ -33,18 +33,20 @@ All the materials will be in English.
 8. 
 9. 
 
-# Task 0:
+# Task 0(get familiar with Git and Github):
+
+Watch [try.github.io](https://try.github.io/levels/1/challenges/1)
+
+Read [sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
+
 Create your github account, fill it in.
 
 Create repository named "kottans_web_test" in that repository create folder "task_0".
 
 Create README.md for the repository.
 
-Watch [try.github.io](https://try.github.io/levels/1/challenges/1)
-
 Finish [learngitbranching](http://learngitbranching.js.org/0 and put the screenshots of the finished task list in the task_0 folder and the link in the README file.
 
-Read [sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
 
 When you finish this task you can start the next one:
 
