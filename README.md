@@ -1,11 +1,11 @@
-#Web development course.
+#Web development course
 
-Course will contain basic web knowleges, git/github, HTML, CSS, ... and students will decide what else(potentially Ruby, Python, JS)
+Course will contain basic web knowleges, HTML, CSS, ... and students will decide what else(potentially Ruby, Python, JS(AngularJS or React or Ember...))
 
-The plan is to decreese the amount of lections in favor of collective discussion, team projects & work.
+We plan to decrease the amount of the lecture in favor of collective discussion, team projects & collective work.
 And give all power & responsibility to students.
 
-All materials will be in English.
+Lot of the materials will be in English.
 
 During the test tasks kottans will learn:
 
@@ -15,9 +15,9 @@ During the test tasks kottans will learn:
 4. HTML, CSS basics
 5. Ruby/Python basics
 6. pip, rvm, nvm, npm
-7. TDD, BDD - чтоб хоть глянули что это такое
-8. Basic fp vocabulary, oop patterns vocabulary
-9. Web basics (Http/protocols, ssh, dns, etc)
+7. TDD, BDD - to get familiar with
+8. Basic FP vocabulary, OOP patterns vocabulary
+9. Web basics (HTTP/protocols, ssh, dns, etc)
 
 ### License
 
