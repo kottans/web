@@ -25,10 +25,5 @@ During the test tasks kottans will learn:
 When you finish this task you can start the next one:
 [Test 1](https://github.com/Kottans/web/blob/master/README01.md)
 
-#### P.S. If you are willing to take a part of it you need to understand that you’ll spend a lot of time on building something big together - a new way of learning and collaborating. You’ll become a part of the small family and be ready to get a new friends and invest in this friendship a lot as in any friendship should be.
-Final part of this course will be to split a parts and create news courses like that(and we’ll never stop).
+#### P.S. If you are willing to take a part of it you need to understand that you’ll spend a lot of time on building something big together - a new way of learning and collaborating. You’ll become a part of the small family and be ready to get a new friends and invest in this friendship a lot as in any friendship should be. Final part of this course will be to split a parts and create news courses like that(and we’ll never stop).
 
-
-### License
-
-The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php).
