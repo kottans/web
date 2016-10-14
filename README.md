@@ -1,5 +1,7 @@
 #Web development course
 
+[![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome
 
 Course will contain basic web knowleges, HTML, CSS, ... and students will decide what else(potentially Ruby, Python, JS(AngularJS or React or Ember...))
