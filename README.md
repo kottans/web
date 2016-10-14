@@ -1,5 +1,7 @@
 #Web development course
 
+Welcome
+
 Course will contain basic web knowleges, HTML, CSS, ... and students will decide what else(potentially Ruby, Python, JS(AngularJS or React or Ember...))
 
 We plan to decrease the amount of the lecture in favor of collective discussion, team projects & collective work.
@@ -18,6 +20,7 @@ During the test tasks kottans will learn:
 7. TDD, BDD - to get familiar with
 8. Basic FP vocabulary, OOP patterns vocabulary
 9. Web basics (HTTP/protocols, ssh, dns, etc)
+10. ...
 
 ### License
 
