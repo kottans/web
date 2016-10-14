@@ -35,14 +35,19 @@ All the materials will be in English.
 
 # Task 0:
 Create your github account, fill it in.
+
 Create repository named "kottans_web_test" in that repository create folder "task_0".
+
 Create README.md for the repository.
 
 Watch [try.github.io](https://try.github.io/levels/1/challenges/1)
+
 Finish [learngitbranching](http://learngitbranching.js.org/0 and put the screenshots of the finished task list in the task_0 folder and the link in the README file.
+
 Read [sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
 
 When you finish this task you can start the next one:
+
 [Test 1](https://github.com/Kottans/web/blob/master/README01.md)
 
 #### P.S. If you are willing to take a part of it you need to understand that you’ll spend a lot of time on building something big together - a new way of learning and collaborating. You’ll become a part of the small family and be ready to get a new friends and invest in this friendship a lot as in any friendship should be. Final part of this course will be to split a parts and create news courses like that(and we’ll never stop).
