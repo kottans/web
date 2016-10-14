@@ -44,12 +44,12 @@ All the materials will be in English.
 
 5. Create README.md for the repository.
 
-5. Finish [learngitbranching](http://learngitbranching.js.org/0) and put the screenshots of the finished tasks lists in the task_0 folder and the linsk in the README file.
+5. Finish [learngitbranching](http://learngitbranching.js.org/0) and put the screenshots of the finished tasks lists in the task_0 folder and the linsk in the README file.(you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
 
 
 When you finish this task you can start the next one:
 
-##[Test 1](https://github.com/Kottans/web/blob/master/README01.md)
+[Test 1](https://github.com/Kottans/web/blob/master/README01.md)
 
 #### P.S. If you are willing to take a part of it you need to understand that you’ll spend a lot of time on building something big together - a new way of learning and collaborating. You’ll become a part of the small family and be ready to get a new friends and invest in this friendship a lot as in any friendship should be. Final part of this course will be to split a parts and create news courses like that(and we’ll never stop).
 
