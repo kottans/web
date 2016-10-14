@@ -40,7 +40,7 @@ All the materials will be in English.
 
 2. Read [sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
 
-3. Create your github account, fill it in.
+3. Create your github account, fill it in.(now you can join the chat [![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge))
 
 4. Create repository named "kottans_web_test" in that repository create folder "task_0".
 
