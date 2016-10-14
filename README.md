@@ -44,7 +44,7 @@ Create repository named "kottans_web_test" in that repository create folder "tas
 
 Create README.md for the repository.
 
-Finish [learngitbranching](http://learngitbranching.js.org/0 and put the screenshots of the finished task list in the task_0 folder and the link in the README file.
+Finish [learngitbranching](http://learngitbranching.js.org/0) and put the screenshots of the finished tasks lists in the task_0 folder and the linsk in the README file.
 
 
 When you finish this task you can start the next one:
