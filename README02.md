@@ -15,4 +15,4 @@ Welcome to the test task 2
 
 When you finish this task you can start the next one:
 
-[Test 1](https://github.com/Kottans/web/blob/master/README01.md)
+[Test 2](https://github.com/Kottans/web/blob/master/README03.md)
