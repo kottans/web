@@ -10,3 +10,6 @@ Welcome to the test task 1
 
 [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
+When you finish this task you can start the next one:
+
+[Test 2](https://github.com/Kottans/web/blob/master/README02.md)
