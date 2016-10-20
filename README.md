@@ -40,7 +40,7 @@ All the materials will be in English.
 
 2. Read [sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
 
-3. Finish the course:[How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+3. Finish the course [How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 4. Create repository named "kottans_web_test" in that repository create folder "task_0".
 
