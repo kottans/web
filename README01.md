@@ -10,7 +10,9 @@ Welcome to the test task 1
 
 2. [Web Development](https://www.udacity.com/course/web-development--cs253)
 
-3. [How to use git and github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+3. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+
+4. [How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 
 
