@@ -40,13 +40,13 @@ All the materials will be in English.
 
 2. Read [sixrevisions.com/web-development/git-tips/](http://sixrevisions.com/web-development/git-tips/)
 
-3. Create your github account, fill it in.(now you can join the chat [![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge))
+3. Finish the course:[How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
 4. Create repository named "kottans_web_test" in that repository create folder "task_0".
 
 5. Create README.md for the repository.
 
-5. Finish [learngitbranching](http://learngitbranching.js.org) and put the screenshots of the finished tasks lists in the task_0 folder and the linsk in the README file.(you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
+6. Finish [learngitbranching](http://learngitbranching.js.org) and put the screenshots of the finished tasks lists in the task_0 folder and the linsk in the README file.(you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
 
 
 When you finish this task you can start the next one:
