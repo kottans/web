@@ -1,10 +1,11 @@
 # Web development course
 
 
-
-# Task 1(Get familiar with command line, web development and more about git):
-
 Welcome to the test task 1
+
+
+[![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 1. [Command line basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
