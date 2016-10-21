@@ -16,7 +16,7 @@ Welcome to the test task 1
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
-Finish the courses and put the screenshots of the finished lessons lists in the task_1 folder and the linsk in the README file.
+Finish the courses and put the screenshots of the finished lessons lists in the task_1 folder and the links in the README.md file in the root of task_1 folder.
 
 When you finish this task you can start the next one:
 
