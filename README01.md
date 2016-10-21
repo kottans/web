@@ -16,6 +16,8 @@ Welcome to the test task 1
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
+Finish the courses and put the screenshots of the finished lessons lists in the task_1 folder and the linsk in the README file.
+
 When you finish this task you can start the next one:
 
 [Test 2](https://github.com/Kottans/web/blob/master/README02.md)
