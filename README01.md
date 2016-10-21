@@ -6,15 +6,15 @@
 
 Welcome to the test task 1
 
-1. [Command line basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+* [Command line basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
-2. [Web Development](https://www.udacity.com/course/web-development--cs253)
+<!--- * [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 
-3. [https://www.udacity.com/course/configuring-linux-web-servers--ud299](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
+* [https://www.udacity.com/course/configuring-linux-web-servers--ud299](https://www.udacity.com/course/configuring-linux-web-servers--ud299)
 
-4. [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
+* [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388)
 
-5. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
+* [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
 
 
