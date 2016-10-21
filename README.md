@@ -46,7 +46,7 @@ All the materials will be in English.
 
 5. Create README.md for the repository.
 
-6. Finish [learngitbranching](http://learngitbranching.js.org) and put the screenshots of the finished tasks lists in the task_0 folder and the linsk in the README file.(you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
+6. Finish [learngitbranching](http://learngitbranching.js.org) and put the screenshots of the finished tasks lists in the task_0 folder and the links in the README.md file in the root of task_0 folder(you can read about markdown here: [writing-on-github](https://help.github.com/categories/writing-on-github/))
 
 
 When you finish this task you can start the next one:
