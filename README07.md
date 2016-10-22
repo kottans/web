@@ -1,6 +1,6 @@
 #Web development course
 
-Welcome to the test task 3
+Welcome to the test task 7
 
 
 [![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -8,7 +8,6 @@ Welcome to the test task 3
 
 
 
-
 When you finish this task you can start the next one:
 
-[Test 4](https://github.com/Kottans/web/blob/master/README04.md)
+[Test 8](https://github.com/Kottans/web/blob/master/README08.md)
