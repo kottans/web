@@ -13,14 +13,14 @@ All the materials will be in English.
 ####During the test tasks kottans will learn:
 
 1. Git, github basics, writing good commit messages
-2. Command line basics
-3. Deployment process (heroku, digital ...)
-4. HTML, CSS basics
-5. Ruby/Python basics
+2. Linux, command line basics, network basics
+3. HTML, CSS, JS basics
+4. Ruby/Python basics
+5. Deployment process (heroku, digital ...)
 6. pip, rvm, nvm, npm
 7. TDD, BDD - to get familiar with
 8. Basic FP vocabulary, OOP patterns vocabulary
-9. Web basics (HTTP/protocols, ssh, dns, etc)
+9. 
 10. ...
 
 ####Programm for the course:
