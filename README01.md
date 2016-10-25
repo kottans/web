@@ -21,3 +21,7 @@ Finish the courses and put the screenshots of the finished lessons lists in the 
 When you finish this task you can start the next one:
 
 [Test 2](https://github.com/Kottans/web/blob/master/README02.md)
+
+Some extra reading:
+
+[How I taught myself to code in eight weeks](http://lifehacker.com/how-i-taught-myself-to-code-in-eight-weeks-511615189)
