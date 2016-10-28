@@ -22,3 +22,5 @@ Extra:
 * [Ruby Quiz 2](http://rubyquiz.strd6.com/)
 
 * [Ruby Warrior](https://github.com/ryanb/ruby-warrior)
+
+* [Rrobots](http://rrobots.rubyforge.org/index.html)
