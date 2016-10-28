@@ -8,7 +8,7 @@ Welcome to the test task 3 (Ruby and Python basics)
 
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 
-
+* [Codecademy Ruby](https://www.codecademy.com/learn/ruby)
 
 
 When you finish this task you can start the next one:
