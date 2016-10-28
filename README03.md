@@ -20,3 +20,5 @@ Extra:
 * [Ruby Quiz](http://rubyquiz.com/index.html)
 
 * [Ruby Quiz 2](http://rubyquiz.strd6.com/)
+
+* [Ruby Warrior](https://github.com/ryanb/ruby-warrior)
