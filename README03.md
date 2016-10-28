@@ -18,3 +18,5 @@ When you finish this task you can start the next one:
 Extra:
 
 * [Ruby Quiz](http://rubyquiz.com/index.html)
+
+* [Ruby Quiz 2](http://rubyquiz.strd6.com/)
