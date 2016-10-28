@@ -1,5 +1,6 @@
 #Web development course
 
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Welcome
