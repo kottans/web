@@ -16,3 +16,7 @@ Welcome to the test task 2 (HTML and CSS basics + JS basics)
 When you finish this task you can start the next one:
 
 [Test 3](https://github.com/Kottans/web/blob/master/README03.md)
+
+Extra:
+
+[Egghead.io](https://egghead.io/technologies/js)
