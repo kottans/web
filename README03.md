@@ -14,3 +14,7 @@ Welcome to the test task 3 (Ruby and Python basics)
 When you finish this task you can start the next one:
 
 [Test 4](https://github.com/Kottans/web/blob/master/README04.md)
+
+Extra:
+
+* [Ruby Quiz](http://rubyquiz.com/index.html)
