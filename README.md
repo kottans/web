@@ -21,7 +21,7 @@ All the materials will be in English.
 6. pip, rvm, nvm, npm
 7. TDD, BDD - to get familiar with
 8. Basic FP vocabulary, OOP patterns vocabulary
-9. 
+9. MVC basics
 10. ...
 
 ####Programm for the course:
