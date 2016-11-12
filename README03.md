@@ -30,3 +30,5 @@ Extra:
 * [Ruby Warrior](https://github.com/ryanb/ruby-warrior)
 
 * [Rrobots](http://rrobots.rubyforge.org/index.html)
+
+* [codewars](www.codewars.com/r/6YJ8wA)
