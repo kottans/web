@@ -14,6 +14,8 @@ Welcome to the test task 3 (Ruby and Python basics)
 
 * [Codecademy Ruby](https://www.codecademy.com/learn/ruby)
 
+* [Ruby Koans](http://www.rubykoans.com/)
+
 * [Dynamic web application with Sinatra](https://classroom.udacity.com/courses/ud268/)
 
 
