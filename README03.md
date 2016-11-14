@@ -33,4 +33,4 @@ Extra:
 
 * [Rrobots](http://rrobots.rubyforge.org/index.html)
 
-* [codewars](www.codewars.com/r/6YJ8wA)
+* [Codewars](www.codewars.com/r/6YJ8wA)
