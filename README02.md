@@ -29,5 +29,6 @@ When you finish this task you can start the next one:
 
 Extra:
 
-[Egghead.io](https://egghead.io/technologies/js)
-[Codewars](www.codewars.com/r/6YJ8wA)
+* [Egghead.io](https://egghead.io/technologies/js)
+
+* [Codewars](www.codewars.com/r/6YJ8wA)
