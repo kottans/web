@@ -17,7 +17,7 @@ All the materials will be in English.
 2. Linux, command line basics, network basics
 3. HTML, CSS, JS basics
 4. Ruby/Python basics
-5. Deployment process (heroku, digital ...)
+5. Deployment process
 6. 
 7. TDD, BDD - to get familiar with
 8. Basic FP vocabulary, OOP patterns vocabulary
