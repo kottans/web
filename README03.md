@@ -18,6 +18,12 @@ Welcome to the test task 3 (Ruby and Python basics)
 
 * [Dynamic web application with Sinatra](https://classroom.udacity.com/courses/ud268/)
 
+<!-- Python basics -->
+
+* [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+
+* [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
+
 
 When you finish this task you can start the next one:
 
