@@ -11,7 +11,7 @@
 
 2. [Intro to devops](https://www.udacity.com/course/intro-to-devops--ud611)
 
-3. [JS course CI-CD](https://www.youtube.com/watch?v=hEhtJvS4uXQ) [slides](http://kottans.org/js-slides/ci-cd/)
+3. [JS course CI-CD 1](https://www.youtube.com/watch?v=hEhtJvS4uXQ), [slides](http://kottans.org/js-slides/ci-cd/); [JS course CI-CD 2](https://www.youtube.com/watch?v=axw3x4DkLF4)
 
 4. [TDD Kata](http://osherove.com/tdd-kata-1/)
 
