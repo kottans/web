@@ -11,6 +11,14 @@
 
 2. [Intro to devops](https://www.udacity.com/course/intro-to-devops--ud611)
 
+3. [JS course CI-CD](https://www.youtube.com/watch?v=hEhtJvS4uXQ) [slides](http://kottans.org/js-slides/ci-cd/)
+
+4. [TDD Kata](http://osherove.com/tdd-kata-1/)
+
+5. [Start with Travis CI](https://docs.travis-ci.com/user/getting-started/)
+
+6. [Travis CI with your GitHub repo](https://github.com/mbonaci/mbo-storm/wiki/Integrate-Travis-CI-with-your-GitHub-repo)
+
 
 When you finish this task you can start the next one:
 
