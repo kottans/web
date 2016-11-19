@@ -13,10 +13,14 @@
 
 3. [Networking for Web Developers](https://www.udacity.com/course/networking-for-web-developers--ud256)
 
+4. [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+
+5. [HTTP: The Protocol Every Web Developer Must Know - Part 2](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
 <!-- [Web Development](https://www.udacity.com/course/web-development--cs253) -->
 <!-- [Designing RESTful APIs](https://www.udacity.com/course/designing-restful-apis--ud388) -->
 
-Finish the courses and put the screenshots of the finished lessons lists in the task_1 folder and the links in the README.md file in the root of task_1 folder.
+Finish the courses (1, 2 and 3) and put the screenshots of the finished lessons lists in the task_1 folder and the links in the README.md file in the root of task_1 folder. Also read 4,5 articles.
 
 When you finish this task you can start the next one:
 
