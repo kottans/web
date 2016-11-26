@@ -24,7 +24,7 @@ All the materials will be in English.
 9. MVC basics
 10. ...
 
-####Programm for the course:
+####Programme for the course:
 
 1. Web development basics
 2. HTML, CSS
