@@ -56,7 +56,7 @@ http://www.w3schools.com/html/html5_draganddrop.asp
 
 *If you don't feel confident completing these tasks, you may go through entire or some parts of Freecodecamp training map*
 
-**After the job will be done, in your "kottans_web_test" repository create a folder "task_2" with README.md file. In this file add a direct link to your Freecodecamp account with completed challenges mentioned above. Also deploy your Trivia app via [gh-pages](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website) (Simply create gh-pages brunch on remote if your app doesn't need any building stuff) and put a link in your README.md file**
+**After the job will be done, in your "kottans_web_test" repository create a folder "task_2" with README.md file. In this file add a direct link to your Freecodecamp account with completed challenges mentioned above. Also deploy your Trivia app via [gh-pages](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website) (Simply create gh-pages branch on remote if your app doesn't need any building stuff) and put a link in your README.md file**
 
 ## Good luck, folks!
 
