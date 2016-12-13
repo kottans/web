@@ -58,6 +58,8 @@ http://www.w3schools.com/html/html5_draganddrop.asp
 
 **After the job will be done, in your "kottans_web_test" repository create a folder "task_2" with README.md file. In this file add a direct link to your Freecodecamp account with completed challenges mentioned above. Also deploy your Trivia app via [gh-pages](http://blog.teamtreehouse.com/using-github-pages-to-host-your-website) (Simply create gh-pages branch on remote if your app doesn't need any building stuff) and put a link in your README.md file**
 
+## To prevent crucial problems with gh-pages deploy, use https protocol in your AJAX request link (https://jservice.io/api/random). You will get a warning about insecure connection (cause trivia doesn't support https) but you will get a response.
+
 ## Good luck, folks!
 
 When you finish this task you can start the next one:
