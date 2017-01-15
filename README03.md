@@ -22,7 +22,7 @@ Welcome to the test task 3 (Ruby and Python basics)
 
 * [Intro to Computer Science](https://www.udacity.com/course/intro-to-computer-science--cs101)
 
-
+Finish the courses and put the screenshots of the finished lessons lists in the task_3 folder and the links in the README.md file in the root of task_3 folder.
 When you finish this task you can start the next one:
 
 [Test 4](https://github.com/Kottans/web/blob/master/README04.md)
