@@ -2,7 +2,7 @@
 
 # Under construction!!!
 
-Welcome to the test task 6
+Welcome to the test task 5
 
 
 [![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -16,4 +16,4 @@ Welcome to the test task 6
 Finish the tutorials and put the links on your repositories in the README.md
 When you finish this task you can start the next one:
 
-[Test 7](https://github.com/Kottans/web/blob/master/README07.md)
+[Test 6](https://github.com/Kottans/web/blob/master/README06.md)
