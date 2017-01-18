@@ -20,4 +20,4 @@
 Finish the courses and put the screenshots of the finished lessons lists in the task_4 folder and the links in the README.md file in the root of task_4 folder.
 When you finish this task you can start the next one:
 
-[Test 6](https://github.com/Kottans/web/blob/master/README05.md)
+[Test 5](https://github.com/Kottans/web/blob/master/README05.md)
