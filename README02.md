@@ -2,7 +2,8 @@
 
 Welcome to the test task 2 (HTML and CSS basics + JS basics)
 
-[![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/Kottans/web](https://badges.gitter.im/Kottans/web.svg)](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+[![Ideas and useful links](https://img.shields.io/badge/google--doc-ideas-ff69b4.svg)](https://docs.google.com/spreadsheets/d/1bZJhYjK3VHOS2HmQb2Fs4aHfEBt8mp1F09j9nEEDaqE/edit#gid=818017811))
 
 [Freecodecamp from zero to front-end hero part 1](https://medium.freecodecamp.com/from-zero-to-front-end-hero-part-1-7d4f7f0bff02#.p2dm4ggy5)
 
