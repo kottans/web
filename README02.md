@@ -51,7 +51,7 @@ Welcome to the test task 2 (HTML and CSS basics + JS basics)
 
 [Codecademy Learn HTML &CSS](https://www.codecademy.com/learn/web) - page layout for complete newbies
 
-[Codecademy Learn Javascript]() Javascript for complete newbies
+[Codecademy Learn Javascript](https://www.codecademy.com/learn/javascript) Javascript for complete newbies
 
 [Bootstrap](http://getbootstrap.com/getting-started/) great tool for quick page styling
 
