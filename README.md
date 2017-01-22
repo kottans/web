@@ -46,8 +46,7 @@ All the materials will be in English.
   - name (at least) one thing that was new to you
   - name (at least) one thing that surprised you
   - name (at least) one thing you will use in the future
-
-Don't worry, your answers will not be graded. It's just a way to reflect on what you have lerned.
+  Don't worry, your answers will not be graded. It's just a way to reflect on what you have lerned.
 
 4. Online courses: finish all tasks, make screenshots and post them in respective task's README.
 
