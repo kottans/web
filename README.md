@@ -40,12 +40,12 @@ All the materials will be in English.
 
 1. You will make a repository on GitHub and save your progress in it. More on repositories in task 0 (see below).
 
-1. Styling: it's up to you, but remember to make it readable. Use [markdown](https://help.github.com/categories/writing-on-github/) to make your repo 
+1. Styling: it's up to you, but remember to make it readable. Using [markdown](https://help.github.com/categories/writing-on-github/) is a good idea. 
 
 3. Reading: for each article you are required to read please post the answsers to the following questions in your respective repo:
-- name (at least) one thing that was new to you
-- name (at least) one thing that surprised you
-- name (at least) one thing you will use in the future
+  - name (at least) one thing that was new to you
+  - name (at least) one thing that surprised you
+  - name (at least) one thing you will use in the future
 Don't worry, your answers will not be graded. It's just a way to reflect on what you have lerned.
 
 4. Online courses: finish all tasks, make screenshots and post them in respective task's README.
