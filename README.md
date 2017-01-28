@@ -38,6 +38,22 @@ All the materials will be in English.
 7. Since the course will be driven by students, you'll be able to decide on further topics.
 
 
+# General requirements
+
+1. You will make a repository on GitHub and save your progress in it. More on repositories in task 0 (see below).
+
+1. Styling: it's up to you, but remember to make it readable. Using [markdown](https://help.github.com/categories/writing-on-github/) is a good idea. 
+
+3. Reading: for each article you are required to read please post the answsers to the following questions in your respective repo.  Don't worry, your answers will not be graded. It's just a way to reflect on what you have lerned.
+  - name (at least) one thing that was new to you
+  - name (at least) one thing that surprised you
+  - name (at least) one thing you will use in the future
+ 
+4. Online courses: finish all tasks, make screenshots and post them in respective task's README.
+
+5. Videos: same as for reading - watch the video, answer three questions.
+
+
 # Task 0 (get familiar with Git and Github):
 
 1. Watch [try.github.io](https://try.github.io/levels/1/challenges/1)
@@ -54,9 +70,9 @@ All the materials will be in English.
 
 7. [Join the gitter chat if you haven't done so yet :) ](https://gitter.im/Kottans/web?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)  
 
-Next task is under construction, follow the announcements, please.
+
 When you finish this task you can start the next one:
 
 [Test 1](https://github.com/Kottans/web/blob/master/README01.md)
 
-#### P.S. If you are willing to participate in the course, you need to understand that you’ll spend a lot of time building something big together - a new way of learning and collaborating. You’ll become part of a small family and should prepare yourself to find new friends and to invest a lot in this friendship, as in any friendship should be. Final part of this course will be to split a parts and create news courses like that(and we’ll never stop).
+#### P.S. If you are willing to participate in the course, you need to understand that you’ll spend a lot of time building something big together - a new way of learning and collaborating. You’ll become part of a small family and should prepare yourself to find new friends and to invest a lot in this friendship, as in any friendship should be. Final part of this course will be to split a parts and create news courses like that (and we’ll never stop).

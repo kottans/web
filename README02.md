@@ -48,11 +48,18 @@ Welcome to the test task 2 (HTML and CSS basics + JS basics)
 
 ##### Suggested literature:
 
-http://www.w3schools.com/xml/ajax_intro.asp
 
-http://javascriptplayground.com/blog/2013/01/ecmascript-5-array-methods/ 
+[Codecademy Learn HTML &CSS](https://www.codecademy.com/learn/web) - page layout for complete newbies
 
-http://www.w3schools.com/html/html5_draganddrop.asp 
+[Codecademy Learn Javascript](https://www.codecademy.com/learn/javascript) Javascript for complete newbies
+
+[Bootstrap](http://getbootstrap.com/getting-started/) great tool for quick page styling
+
+[AJAX Intro from w3schools](http://www.w3schools.com/xml/ajax_intro.asp) - getting data from serve
+
+[ECMAScript 5 Array Methods](http://javascriptplayground.com/blog/2013/01/ecmascript-5-array-methods/) 
+
+[Drag & Drop w3schools](http://www.w3schools.com/html/html5_draganddrop.asp) - for advanced solution
 
 
 *If you don't feel confident completing these tasks, you may go through entire or some parts of Freecodecamp training map*
