@@ -44,7 +44,7 @@ All the materials will be in English.
 
 1. Styling: it's up to you, but remember to make it readable. Using [markdown](https://help.github.com/categories/writing-on-github/) is a good idea. 
 
-3. Reading: for each article you are required to read please post the answsers to the following questions in your respective repo.  Don't worry, your answers will not be graded. It's just a way to reflect on what you have lerned.
+3. Reading: for each article you are required to read please post the answers to the following questions in your respective repo.  Don't worry, your answers will not be graded. It's just a way to reflect on what you have learned.
   - name (at least) one thing that was new to you
   - name (at least) one thing that surprised you
   - name (at least) one thing you will use in the future
