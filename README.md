@@ -21,7 +21,7 @@ All the materials will be in English.
 3. HTML, CSS, JS basics
 4. Ruby/Python basics
 5. Deployment process
-6. 
+6. Server-Side Development with Ruby on Rails
 7. TDD, BDD - to get familiar with
 8. Basic FP vocabulary, OOP patterns vocabulary
 9. MVC basics
