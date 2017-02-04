@@ -14,8 +14,13 @@ Welcome to the test task 5
 2. [https://pragprog.com/book/rails5/agile-web-development-with-rails-5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
 
 3. [The Rspec Book](https://pragprog.com/book/achbd/the-rspec-book)
-
+    
 Finish the tutorials and put the links on your repositories in the README.md
-When you finish this task you can start the next one:
 
+4. [Intro to Rails (youtube)](https://www.youtube.com/playlist?list=PL23ZvcdS3XPKnwg3lMv-JGNCn08kB0wsA)
+
+5. [12 Web Apps in 12 Weeks (youtube)](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
+Also add the links with the 12 completed applications (one app - one link to repository)
+
+When you finish this task you can start the next one:
 [Test 6](https://github.com/Kottans/web/blob/master/README06.md)
