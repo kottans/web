@@ -24,3 +24,6 @@ Also add the links with the 12 completed applications (one app - one link to rep
 
 When you finish this task you can start the next one:
 [Test 6](https://github.com/Kottans/web/blob/master/README06.md)
+
+If you've visited meeting at 4.02, you are welcome to get more practice related with TDD and finish the quest provided in following repository: https://github.com/AlexPurhalo/travel-game-ruby-tdd
+
