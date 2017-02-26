@@ -17,9 +17,6 @@ Welcome to the test task 5
 2. [https://pragprog.com/book/rails5/agile-web-development-with-rails-5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
 
 3. [The Rspec Book](https://pragprog.com/book/achbd/the-rspec-book)
-
-
-
     
 Useful materials for learning Ruby on Rails (OPTIONAL):
 
@@ -27,6 +24,8 @@ Useful materials for learning Ruby on Rails (OPTIONAL):
 
 5. [12 Web Apps in 12 Weeks (youtube)](https://www.youtube.com/playlist?list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-)
 
-
 When you finish this task you can start the next one:
 [Test 6](https://github.com/Kottans/web/blob/master/README06.md)
+
+If you've visited meeting at 4.02, you are welcome to get more practice related with TDD and finish the quest provided in following repository: https://github.com/AlexPurhalo/travel-game-ruby-tdd
+
