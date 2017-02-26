@@ -14,7 +14,7 @@ Welcome to the test task 5
 
 1. [Ruby on Rails Tutorial from Michael Hartl](https://www.railstutorial.org/book)
 
-2. [https://pragprog.com/book/rails5/agile-web-development-with-rails-5](https://pragprog.com/book/rails5/agile-web-development-with-rails-5)
+2. [Agile Web Development with Rails 5 by Sam Ruby](https://drive.google.com/open?id=0B2MaFfCi6ZhkVTVub0ZsemQ5alU)
 
 3. [The Rspec Book](https://pragprog.com/book/achbd/the-rspec-book)
 
