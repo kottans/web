@@ -19,7 +19,7 @@ We plan to decrease the amount of lectures in favor of collective discussion, te
 And give all power & responsibility to students.
 All the materials will be in English.
 
-####In the process of completing test tasks kottans will learn:
+#### In the process of completing test tasks kottans will learn:
 
 1. Git, github basics, writing good commit messages
 2. Linux, command line basics, network basics
@@ -32,7 +32,7 @@ All the materials will be in English.
 9. MVC basics
 10. ...
 
-####Syllabus:
+#### Syllabus:
 
 1. Web development basics
 2. HTML, CSS
