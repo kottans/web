@@ -41,3 +41,5 @@ Extra:
 * [Rrobots](http://rrobots.rubyforge.org/index.html)
 
 * [Codewars](www.codewars.com/r/6YJ8wA)
+
+* [Django Girls Tutorial :us:](https://tutorial.djangogirls.org/en) | [:ukraine:](https://tutorial.djangogirls.org/uk)
