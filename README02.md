@@ -81,3 +81,5 @@ Extra:
 * [Egghead.io](https://egghead.io/technologies/js)
 
 * [Codewars](www.codewars.com/r/6YJ8wA)
+
+* [w3schools exercises](https://www.w3schools.com/html/exercise.asp)
